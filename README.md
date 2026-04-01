@@ -15,6 +15,16 @@ design. Based in the US (NY/NJ area).
 
 ---
 
+## 📜 Certifications
+
+- NestJS Fundamentals Certificate (Oct 2025)
+- NestJS Advanced Concepts Certificate (Nov 2025)
+- NestJS Microservices (Mar 2026)
+
+Applied knowledge across all 3 certificates to build [nestjs-saas-starter](https://github.com/DahboorSa/nestjs-saas-starter)
+
+---
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saba-dahboor)
